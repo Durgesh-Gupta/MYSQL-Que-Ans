@@ -7,7 +7,8 @@ Canada - 3 days
 
 rest - 5 days
 
-Solution:
+<span style="color: blue"> Solution: </span>
+<font color="green"> Some green text </font>
 
 
 
