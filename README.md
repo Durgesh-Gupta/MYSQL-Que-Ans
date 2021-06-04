@@ -1,5 +1,6 @@
 # MYSQL-Que-Ans
-### Q.1 1. List the names and hire dates in format ('20/3/84') in dept 20.
+### Q.1 
+1. List the names and hire dates in format ('20/3/84') in dept 20.
 
 2. How many months has the president worked for the company.
 
