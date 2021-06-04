@@ -41,7 +41,36 @@
 20. Display the employees who are doing the same job as ‘FORD’.
 
 ## Solution:
-![Solution]()
+Ans1:
+
+![Solution](https://github.com/Durgesh-Gupta/MYSQL-Que-Ans/blob/main/Query%20ScreenShots/q.1_1.png)
+
+
+Ans2:
+
+
+![Solution](https://github.com/Durgesh-Gupta/MYSQL-Que-Ans/blob/main/Query%20ScreenShots/Q.1_2.png)
+
+
+Ans3:
+
+
+![Solution](https://github.com/Durgesh-Gupta/MYSQL-Que-Ans/blob/main/Query%20ScreenShots/Q1_3.png)
+
+
+Ans4:
+
+
+![Solution](https://github.com/Durgesh-Gupta/MYSQL-Que-Ans/blob/main/Query%20ScreenShots/Q1_4.png)
+
+
+
+Ans5:
+
+
+![Solution](https://github.com/Durgesh-Gupta/MYSQL-Que-Ans/blob/main/Query%20ScreenShots/Q1_5.png)
+
+
 
 ### Q.2 Write a function using case expression to display shipping days based on customer city:
 
